@@ -1,0 +1,6 @@
+Things to consider.txt
+
+- weight of the people will be in normal distribution.
+- people who get infected (fall down) can get better (come up again)
+- not only the push factor, but also tripping down will be considered (another spread method)
+-
